@@ -1,2 +1,2 @@
 # playProjectGroup
-Mutiple projects in one maven project
+Multiple projects in one maven project
